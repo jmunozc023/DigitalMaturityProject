@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-07-28T15:04:31",
+  "files": {
+    "funcionarios": {
+      "input": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\data\\Del papel a lo digital_ percepción de la madurez digital en los servicios municipales.xlsx",
+      "output": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\output\\clean\\funcionarios.csv",
+      "rows": 31,
+      "output_columns": 42
+    },
+    "ciudadanos": {
+      "input": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\data\\Del papel a lo digital_ percepción de la madurez digital en los servicios municipales - C.xlsx",
+      "output": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\output\\clean\\ciudadanos.csv",
+      "rows": 55,
+      "output_columns": 32
+    },
+    "documental": {
+      "input": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\data\\Ficha complementaria de revisión documental para la triangulación.xlsx",
+      "output": "C:\\Users\\josep\\OneDrive - ULACIT ED CR\\Experiencia Profesional\\DatosExperiencia\\Proyecto_ETL\\output\\clean\\documental.csv",
+      "rows": 10,
+      "output_columns": 21
+    }
+  },
+  "warnings": []
+}

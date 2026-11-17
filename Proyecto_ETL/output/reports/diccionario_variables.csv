@@ -1,0 +1,54 @@
+﻿dataset,variable,source_column,type,missing
+funcionarios,MD01,La Municipalidad cuenta con una estrategia institucional claramente definida para orientar la prestación y transformación de los servicios digitales.,likert_1_5,0
+funcionarios,MD02,Las prioridades institucionales de digitalización están claramente definidas y son conocidas por el personal involucrado.,likert_1_5,0
+funcionarios,MD03,Las iniciativas de servicios digitales se encuentran alineadas con los objetivos y prioridades institucionales de la Municipalidad.,likert_1_5,1
+funcionarios,MD04,         Existen responsables   claramente definidos para dirigir y dar seguimiento a la estrategia de   servicios digitales.       ,likert_1_5,0
+funcionarios,MD05,La Municipalidad consulta a la ciudadanía y otras partes interesadas antes de diseñar o modificar servicios digitales.,likert_1_5,1
+funcionarios,MD06,Existen mecanismos formales para recopilar retroalimentación de las personas usuarias sobre los servicios digitales.,likert_1_5,0
+funcionarios,MD07,Las personas usuarias y otras partes interesadas disponen de oportunidades para participar en la mejora de los servicios digitales.,likert_1_5,0
+funcionarios,MD08,         La información obtenida de   las personas usuarias se utiliza para tomar decisiones sobre cambios o   mejoras en los servicios digitales.       ,likert_1_5,0
+funcionarios,MD09,Los servicios digitales se diseñan considerando las necesidades de las personas usuarias.,likert_1_5,1
+funcionarios,MD10,"Antes de implementar un servicio digital se definen claramente su alcance, requisitos y responsables.",likert_1_5,0
+funcionarios,MD11,         Los requisitos y características de los servicios digitales se   documentan antes de su implementación.       ,likert_1_5,0
+funcionarios,MD12,Durante el diseño de los servicios digitales se consideran aspectos de facilidad de uso y accesibilidad para las personas usuarias.,likert_1_5,0
+funcionarios,MD13,El personal recibe capacitación antes de la implementación de nuevos sistemas o servicios digitales.,likert_1_5,0
+funcionarios,MD14,Los nuevos sistemas o servicios digitales son probados antes de ponerse a disposición de las personas usuarias.,likert_1_5,0
+funcionarios,MD15,Los cambios asociados con la implementación de nuevos servicios digitales se comunican oportunamente al personal involucrado.,likert_1_5,0
+funcionarios,MD16,Antes de poner en funcionamiento un nuevo servicio digital se verifica que existan las condiciones técnicas y organizacionales necesarias para operarlo.,likert_1_5,0
+funcionarios,MD17,Los sistemas y plataformas digitales de la Municipalidad funcionan de manera estable durante su operación habitual.,likert_1_5,0
+funcionarios,MD18,Existen responsables claramente designados para brindar soporte cuando un servicio digital presenta fallas.,likert_1_5,1
+funcionarios,MD19,La Municipalidad dispone de mecanismos para mantener o recuperar la prestación de los servicios digitales ante fallas técnicas.,likert_1_5,0
+funcionarios,MD20,         El funcionamiento de los   servicios digitales es monitoreado para identificar fallas o problemas   operativos.       ,likert_1_5,0
+funcionarios,MD21,La Municipalidad evalúa periódicamente el desempeño de sus servicios digitales para identificar oportunidades de mejora.,likert_1_5,0
+funcionarios,MD22,Se utilizan indicadores o información sobre el desempeño de los servicios digitales para orientar decisiones de mejora.,likert_1_5,0
+funcionarios,MD23,Las oportunidades de mejora identificadas se traducen en cambios concretos en los servicios digitales.,likert_1_5,0
+funcionarios,MD24,La Municipalidad realiza seguimiento a los cambios implementados para verificar si mejoraron el desempeño de los servicios digitales.,likert_1_5,0
+ciudadanos,EA01,El tiempo de respuesta de la Municipalidad para atender mis trámites es razonable.,likert_1_5,0
+ciudadanos,EA02,         Los trámites municipales que   utilizo se gestionan de manera ágil.       ,likert_1_5,0
+ciudadanos,EA03,Los procedimientos para realizar trámites municipales son sencillos y comprensibles.,likert_1_5,0
+ciudadanos,EA04,Los servicios digitales disponibles me permiten reducir la necesidad de desplazarme a las oficinas municipales.,likert_1_5,0
+ciudadanos,EA05,Los trámites municipales que realizo son resueltos adecuadamente sin necesidad de repetir innecesariamente el proceso.,likert_1_5,0
+ciudadanos,EA06,         Puedo acceder a los   servicios municipales que necesito cuando los requiero.       ,likert_1_5,0
+ciudadanos,EA07,El proceso de atención y resolución de los trámites municipales ofrece un servicio de calidad.,likert_1_5,0
+ciudadanos,EA08,"En general, considero que la Municipalidad de Tibás gestiona los trámites municipales de manera eficiente.",likert_1_5,0
+ciudadanos,DGP01,         La Municipalidad ofrece alternativas digitales para realizar   consultas o gestionar trámites municipales.       ,likert_1_5,0
+ciudadanos,DGP02,Una cantidad suficiente de los trámites municipales que necesito se encuentra disponible mediante canales digitales.,likert_1_5,0
+ciudadanos,DGP03,Los trámites municipales disponibles digitalmente pueden realizarse de principio a fin sin requerir gestiones presenciales adicionales.,likert_1_5,0
+ciudadanos,DGP04,Los servicios digitales municipales permiten consultar en línea el estado o avance de los trámites realizados.,likert_1_5,0
+ciudadanos,DGP05,"La Municipalidad comunica por medios digitales información sobre el avance, cambios o resolución de los trámites realizados.",likert_1_5,0
+ciudadanos,SAT01,Me resulta fácil utilizar los servicios digitales municipales disponibles.,likert_1_5,1
+ciudadanos,SAT02,Considero que los servicios digitales municipales ofrecen una atención de calidad.,likert_1_5,1
+ciudadanos,SAT03,La información proporcionada mediante los servicios digitales municipales es clara y comprensible.,likert_1_5,1
+ciudadanos,SAT04,"En general, estoy satisfecho(a) con los servicios digitales ofrecidos por la Municipalidad de Tibás.",likert_1_5,1
+ciudadanos,SAT05,Confío en los servicios digitales ofrecidos por la Municipalidad de Tibás para realizar consultas o trámites municipales.,likert_1_5,1
+ciudadanos,NPS1,"En una escala de 0 a 10, ¿qué tan probable es que recomiende los servicios digitales de la Municipalidad de Tibás a un familiar, vecino o conocido?” (0 = nada probable; 10 = totalmente probable). ",nps_0_10,1
+documental,RD01,"Información del trámite disponible en línea
+      ",binary_or_NA_NV,0
+documental,RD02,"Inicio digital del trámite
+      ",binary_or_NA_NV,0
+documental,RD03,Envío digital de documentos,binary_or_NA_NV,0
+documental,RD04,Autenticación o identificación digital,binary_or_NA_NV,0
+documental,RD05,Pago electrónico,binary_or_NA_NV,0
+documental,RD06,Completitud sin presencialidad,binary_or_NA_NV,0
+documental,RD07,Seguimiento digital del trámite,binary_or_NA_NV,0
+documental,RD08,Comunicación digital del resultado,binary_or_NA_NV,0

@@ -1,0 +1,8 @@
+﻿participant_id,unit_or_department,role_or_profile,source_file,coding_status
+E1,Departamento de Patentes,Encargada de valoración de trámites de apertura de negocios y permisos comerciales,Ent01.txt,Codificación documentada; anonimizado en el informe
+E2,Coordinación Administrativa (apoyo a Recursos Humanos),Coordinador administrativo; participa en la comisión de necesidades estratégicas de TI,Ent02.txt,Codificación documentada; anonimizado en el informe
+E3,Contabilidad,Funcionaria del área contable,Ent03.txt,Codificación documentada; anonimizado en el informe
+E4,Área no especificada con visión institucional/transversal,Funcionario/a con conocimiento de iniciativas de sistema integrado a nivel municipal,Ent04.txt,Codificación documentada; anonimizado en el informe
+E5,Administración Tributaria,Encargado(a) de la gestión de cobro,Ent05.txt,Codificación documentada; anonimizado en el informe
+E6,Cobros / atención al contribuyente,Funcionario/a que atiende consultas y aclaraciones sobre recibos e impuestos,Ent06.txt,Codificación documentada; anonimizado en el informe
+E7,Plataforma de Servicios,"Encargado(a) de la recepción y trámite de documentos, entrada principal de los trámites municipales",Ent07.txt,Codificación documentada; anonimizado en el informe

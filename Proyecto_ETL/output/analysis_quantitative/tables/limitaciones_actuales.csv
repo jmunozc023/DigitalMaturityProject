@@ -1,0 +1,8 @@
+"limitacion","impacto_potencial","tratamiento"
+"Muestra cuantitativa parcial","Alfas, p-valores y tamaños de efecto pueden ser inestables; no generalizar todavía","Reportar n y nota preliminar; actualizar al completar la recolección"
+"Casos incompletos","Reduce n por escala y puede cambiar las medias compuestas","Conservar NA y exigir mínimo de 50% de ítems respondidos"
+"Grupos con pocos casos","Algunas t/ANOVA no son estimables o tienen baja potencia","No ejecutar automáticamente cuando no hay al menos 2 casos por grupo"
+"Scope and selection of the qualitative corpus","The corpus includes seven units from a single municipality; it does not allow generalization beyond the studied context","Report units, roles, anonymization, specific thematic saturation, and transferability limits"
+"Falta de evidencia de jueces expertos","No permite reportar V de Aiken ni evidencia empírica de validez de contenido","Solicitar matriz de evaluación y calcular el coeficiente correspondiente"
+"Diseño transversal y datos de percepción","Permite asociaciones, no inferencias causales ni cambios en el tiempo","Redactar la limitación en resultados y discusión"
+"Revisión documental acotada al portal consultado","La evidencia depende de disponibilidad, actualización y observabilidad del portal","Reportar fuente, fecha de revisión y campos N/A o N/V"

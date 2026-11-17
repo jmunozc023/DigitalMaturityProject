@@ -1,0 +1,21 @@
+PREPARING RESULTS FOR DELIVERY
+
+1. Descriptive statistics
+Measures of central tendency and dispersion were prepared for the composite scores and for each item. Categorical variables are presented using frequencies and valid percentages.
+
+2. Reliability
+Cronbach's alpha was estimated for the MD scales by KPA and overall, and for V2, V3, and V4. The current estimates should be presented as preliminary while the sample remains partial.
+
+3. Hypotheses and tests
+The significance level is α = .05. Test selection is based on normality and Levene, and the statistic, p-value, and effect size are reported.
+The main V3-V2 hypothesis was evaluated using pearson: r = 0.70, p < .001, n = 55. Se rechaza H0.
+Group comparisons are considered exploratory because a specific hypothesis was not defined for each sociodemographic variable.
+
+4. Findings and patterns
+Mean patterns are stored in patrones_medias_por_indicador.csv. They should not be interpreted as causal evidence or generalized beyond the collected sample.
+
+5. Limitations
+The partial sample, small groups, absence of interviews, and lack of a judges matrix limit the strength of the current conclusions.
+
+6. Pending components
+The qualitative analysis, the interview-based credibility/transferability/dependability/confirmability criteria, and the final mixed-method triangulation remain pending.

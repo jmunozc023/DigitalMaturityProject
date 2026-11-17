@@ -1,0 +1,31 @@
+"codigo","codigo_nombre","categoria_principal","subcategoria","n_entrevistas","porcentaje_entrevistas","coincidencias_textuales"
+1,"Ausencia de digitalización operativa de base","Categoría emergente transversal","Ausencia de digitalización operativa de base",2,28.5714285714286,2
+2,"Comprensión restringida del concepto de transformación digital","Categoría emergente transversal","Comprensión restringida del concepto de transformación digital",2,28.5714285714286,16
+3,"Vacante de la jefatura de informática","Categoría emergente transversal","Vacante de la jefatura de TI (bisagra entre C1 y C2)",3,42.8571428571429,2
+4,"Reencuadre de la barrera presupuestaria hacia lo organizacional o humano","C1. Barreras presupuestarias","Reencuadre del presupuesto hacia el déficit de personal técnico",3,42.8571428571429,17
+5,"Percepción de suficiencia del presupuesto ordinario","C1. Barreras presupuestarias","Percepción de suficiencia presupuestaria / el obstáculo es la decisión, no el dinero",2,28.5714285714286,3
+6,"Personal técnico insuficiente en el departamento de TI","C1. Barreras presupuestarias","Reencuadre del presupuesto hacia el déficit de personal técnico",1,14.2857142857143,2
+7,"Recorte o desvío de recursos hacia otras prioridades","C1. Barreras presupuestarias","Infraestructura y continuidad tecnológica subinvertida",1,14.2857142857143,1
+8,"Infraestructura tecnológica deficiente por subinversión sostenida","C1. Barreras presupuestarias","Infraestructura y continuidad tecnológica subinvertida",1,14.2857142857143,5
+9,"Necesidad de una inversión inicial fuerte, reconocida como condición legítima del cambio","C1. Barreras presupuestarias","Percepción de suficiencia presupuestaria / el obstáculo es la decisión, no el dinero",2,28.5714285714286,4
+10,"Ausencia de liderazgo claramente definido para la transformación digital","C2. Barreras organizacionales","Ausencia de liderazgo institucional para la transformación digital",6,85.7142857142857,10
+11,"Ausencia de canal, comisión o responsable formalmente designado","C2. Barreras organizacionales","Ausencia de canal, comisión o responsable formal",4,57.1428571428571,14
+12,"Concentración de decisiones y de acceso a la información en una sola persona","C2. Barreras organizacionales","Concentración de decisiones/información en una persona",2,28.5714285714286,2
+13,"Fragmentación institucional / pensamiento en silos entre departamentos","C2. Barreras organizacionales","Fragmentación interdepartamental / silos",4,57.1428571428571,26
+14,"Procesos reglamentarios y administrativos lentos","C2. Barreras organizacionales","Procesos reglamentarios lentos y burocráticos",1,14.2857142857143,14
+15,"Fallas técnicas y soporte deficiente ante incidencias","C2. Barreras organizacionales","Fallas técnicas y soporte deficiente",2,28.5714285714286,4
+16,"Iniciativas anunciadas que permanecen estancadas por años","C2. Barreras organizacionales","Fallas técnicas y soporte deficiente",3,42.8571428571429,19
+17,"Dependencia de proveedores externos para el desarrollo o soporte del sistema","C2. Barreras organizacionales","Dependencia de proveedores externos / resistencia interna",2,28.5714285714286,10
+18,"Resistencia o boicot de actores internos al cambio","C2. Barreras organizacionales","Dependencia de proveedores externos / resistencia interna",2,28.5714285714286,9
+19,"No identificación de barreras normativas explícitas","C3. Barreras normativas","No identificación de barreras normativas explícitas",2,28.5714285714286,2
+20,"Percepción de que la normativa no es un obstáculo insalvable","C3. Barreras normativas","No identificación de barreras normativas explícitas",1,14.2857142857143,2
+21,"Falta de unificación de criterios en la interpretación normativa","C3. Barreras normativas","Falta de unificación de criterios interpretativos",1,14.2857142857143,5
+22,"Exigencia reglamentaria como cuello de botella institucional","C3. Barreras normativas","Exigencia reglamentaria como cuello de botella",1,14.2857142857143,7
+23,"Desconocimiento de la normativa de gestión documental digital","C3. Barreras normativas","Desconocimiento de la normativa de gestión documental digital",1,14.2857142857143,16
+24,"Disposición favorable y condicionada del personal, sin resistencia estructural","C4. Barreras culturales","Disposición favorable y condicionada del personal",2,28.5714285714286,21
+25,"Resistencia al cambio y miedo en parte del personal","C4. Barreras culturales","Resistencia al cambio y miedo en parte del personal",3,42.8571428571429,9
+26,"Brecha de acceso digital en la ciudadanía, particularmente en personas adultas mayores","C4. Barreras culturales","Brecha de acceso digital ciudadano (adultos mayores)",3,42.8571428571429,10
+27,"Apertura de la ciudadanía, incluidas personas adultas mayores, hacia la digitalización","C4. Barreras culturales","Apertura ciudadana hacia la digitalización",3,42.8571428571429,3
+28,"Clima organizacional desfavorable y desmotivación del personal","C4. Barreras culturales","Clima organizacional desfavorable / desmotivación",1,14.2857142857143,5
+29,"Preferencia instalada por el trámite presencial","C4. Barreras culturales","Preferencia instalada por el trámite presencial",1,14.2857142857143,3
+30,"Comparación con otras municipalidades como referente de rezago institucional","Categoría emergente transversal","Comparación con otras municipalidades como espejo de rezago",3,42.8571428571429,10

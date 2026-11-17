@@ -1,0 +1,8 @@
+"participant_id","unit_or_department","role_or_profile","source_file","source_exists","caracteres","palabras_aprox"
+"E1","Departamento de Patentes","Encargada de valoración de trámites de apertura de negocios y permisos comerciales","Ent01.txt",TRUE,5452,822
+"E2","Coordinación Administrativa (apoyo a Recursos Humanos)","Coordinador administrativo; participa en la comisión de necesidades estratégicas de TI","Ent02.txt",TRUE,8609,1424
+"E3","Contabilidad","Funcionaria del área contable","Ent03.txt",TRUE,5377,838
+"E4","Área no especificada con visión institucional/transversal","Funcionario/a con conocimiento de iniciativas de sistema integrado a nivel municipal","Ent04.txt",TRUE,8175,1308
+"E5","Administración Tributaria","Encargado(a) de la gestión de cobro","Ent05.txt",TRUE,7390,1214
+"E6","Cobros / atención al contribuyente","Funcionario/a que atiende consultas y aclaraciones sobre recibos e impuestos","Ent06.txt",TRUE,11471,1902
+"E7","Plataforma de Servicios","Encargado(a) de la recepción y trámite de documentos, entrada principal de los trámites municipales","Ent07.txt",TRUE,11670,1908

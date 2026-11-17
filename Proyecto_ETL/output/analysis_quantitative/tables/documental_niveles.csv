@@ -1,0 +1,5 @@
+"dataset","variable","categoria","frecuencia","porcentaje_valido","faltantes"
+"documental","digital_level","Digital transaccional",2,20,0
+"documental","digital_level","Informativo",4,40,0
+"documental","digital_level","Parcialmente digital",2,20,0
+"documental","digital_level","Presencial",2,20,0

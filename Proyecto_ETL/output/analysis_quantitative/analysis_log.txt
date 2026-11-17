@@ -1,0 +1,142 @@
+2026-07-25 14:32:01 | Análisis cuantitativo completado.
+2026-07-25 14:32:01 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-25 14:39:11 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-25 14:39:11 | Análisis cuantitativo completado.
+2026-07-25 14:39:11 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-25 14:50:48 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-25 14:50:49 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-25 14:50:49 | Análisis cuantitativo completado.
+2026-07-25 14:50:49 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 14:52:06 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 14:52:06 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 14:52:06 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 14:52:06 | Análisis cuantitativo completado.
+2026-07-26 14:52:06 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 17:41:43 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 17:41:43 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 17:41:43 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 17:41:43 | Análisis cuantitativo completado.
+2026-07-26 17:41:43 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:09:48 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:09:48 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:09:49 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:09:52 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:09:52 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:09:52 | Análisis cuantitativo completado.
+2026-07-26 18:09:52 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:11:18 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:11:18 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:11:19 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:11:22 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:11:22 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:11:22 | Análisis cuantitativo completado.
+2026-07-26 18:11:22 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:13:36 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:13:36 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:13:37 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:13:40 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:13:40 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:13:40 | Análisis cuantitativo completado.
+2026-07-26 18:13:40 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:15:06 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:15:06 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:15:06 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:15:09 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:15:09 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:15:09 | Análisis cuantitativo completado.
+2026-07-26 18:15:09 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:29:16 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:29:16 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:29:17 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:29:20 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:29:20 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:29:20 | Análisis cuantitativo completado.
+2026-07-26 18:29:20 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-26 18:30:08 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:30:08 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-26 18:30:08 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-26 18:30:12 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-26 18:30:12 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-26 18:30:12 | Análisis cuantitativo completado.
+2026-07-26 18:30:12 | La triangulación cualitativa permanece pendiente por falta de entrevistas.
+2026-07-28 14:34:31 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 14:34:31 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 14:34:32 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-07-28 14:34:32 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-28 14:34:32 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-07-28 14:34:35 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-28 14:34:35 | Matriz de triangulación mixta generada.
+2026-07-28 14:34:35 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-28 14:34:35 | Análisis cuantitativo completado.
+2026-07-28 14:34:35 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-07-28 14:45:35 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 14:45:35 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 14:45:36 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-07-28 14:45:36 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-28 14:45:36 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-07-28 14:45:39 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-28 14:45:39 | Matriz de triangulación mixta generada.
+2026-07-28 14:45:40 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-28 14:45:40 | Análisis cuantitativo completado.
+2026-07-28 14:45:40 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-07-28 14:48:40 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 14:49:16 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-28 14:49:39 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 15:04:59 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 15:05:00 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-07-28 15:05:03 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-07-28 15:05:04 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-07-28 15:05:04 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-07-28 15:05:10 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-07-28 15:05:10 | Matriz de triangulación mixta generada.
+2026-07-28 15:05:10 | Catálogos de tablas y figuras para la entrega generados.
+2026-07-28 15:05:10 | Análisis cuantitativo completado.
+2026-07-28 15:05:10 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-07-28 15:07:33 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-10-31 13:49:29 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-10-31 13:49:29 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-10-31 13:49:30 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-10-31 13:49:30 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-10-31 13:49:30 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-10-31 13:49:32 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-10-31 13:49:32 | Matriz de triangulación mixta generada.
+2026-10-31 13:49:32 | Catálogos de tablas y figuras para la entrega generados.
+2026-10-31 13:49:32 | Análisis cuantitativo completado.
+2026-10-31 13:49:32 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-10-31 13:59:15 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-10-31 13:59:24 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-10-31 14:00:24 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-10-31 14:00:24 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-10-31 14:00:25 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-10-31 14:00:25 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-10-31 14:00:25 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-10-31 14:00:27 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-10-31 14:00:27 | Matriz de triangulación mixta generada.
+2026-10-31 14:00:27 | Catálogos de tablas y figuras para la entrega generados.
+2026-10-31 14:00:27 | Análisis cuantitativo completado.
+2026-10-31 14:00:27 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-11-17 15:53:24 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 15:53:24 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 15:53:26 | Análisis cualitativo reproducible generado con  7  entrevistas y  30  códigos.
+2026-11-17 15:53:27 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-11-17 15:53:27 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-11-17 15:53:29 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-11-17 15:53:29 | Matriz de triangulación mixta generada.
+2026-11-17 15:53:29 | Catálogos de tablas y figuras para la entrega generados.
+2026-11-17 15:53:29 | Análisis cuantitativo completado.
+2026-11-17 15:53:29 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-11-17 16:03:50 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 16:03:51 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 16:03:51 | Reproducible qualitative analysis generated with  7  interviews and  30  codes.
+2026-11-17 16:03:52 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-11-17 16:03:52 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-11-17 16:04:06 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 16:04:07 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-17 16:04:07 | Reproducible qualitative analysis generated with  7  interviews and  30  codes.
+2026-11-17 16:04:07 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-11-17 16:04:07 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-11-17 16:04:10 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-11-17 16:04:10 | Matriz de triangulación mixta generada.
+2026-11-17 16:04:10 | Catálogos de tablas y figuras para la entrega generados.
+2026-11-17 16:04:10 | Análisis cuantitativo completado.
+2026-11-17 16:04:10 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.

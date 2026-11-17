@@ -1,0 +1,5 @@
+"objetivo","enunciado_resumido","fuentes","estado_actual","salida"
+"OE1","Analyze institutional digital maturity through six KPAs","Staff: MD01-MD24","Available: descriptives, reliability, and V1 plots","descriptivos_funcionarios.csv y 01_medias_funcionarios_kpa.png"
+"OE2","Evaluate efficiency, digitalization, and satisfaction; analyze V3 and V2","Citizens: EA, DGP, SAT, and NPS1","Available: descriptives, reliability, V3-V2 correlation, and exploratory groups","descriptivos_ciudadanos.csv, hipotesis_principal_V3_V2.csv, and 04_relacion_V3_V2.png"
+"OE3","Identify budgetary, organizational, normative, and cultural barriers","Interviews with key staff","Available: 7 interviews, open/axial coding, and interpretive synthesis","cualitativo_resumen_categorias.csv, cualitativo_matriz_codificacion.csv, and interpretacion_cualitativa.txt"
+"Triangulation","Contrast surveys, documentary review, and interviews","Staff, citizens, documentary review, and interviews","Prepared: the integration must be recalculated and reviewed with the definitive quantitative data","triangulacion_mixta.csv and triangulacion_mixta.txt"

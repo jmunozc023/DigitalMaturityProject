@@ -1,0 +1,4 @@
+"dataset","variable_1","variable_2","n","chi2","gl","p_value","min_expected","decision","nota"
+"ciudadanos","canal","frecuencia_uso",55,5.33630952380952,4,0.254497054698835,0.909090909090909,"No se rechaza H0","Exploratorio: hay frecuencias esperadas menores que 5"
+"ciudadanos","rango_edad","canal",55,9.04044117647059,4,0.0600965545857806,1.45454545454545,"No se rechaza H0","Exploratorio: hay frecuencias esperadas menores que 5"
+"ciudadanos","tipo_tramite","canal",55,15.8274456521739,10,0.104679660041649,0.0909090909090909,"No se rechaza H0","Exploratorio: hay frecuencias esperadas menores que 5"

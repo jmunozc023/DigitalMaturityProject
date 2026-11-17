@@ -1,0 +1,5 @@
+MIXED-METHOD TRIANGULATION
+
+The matrix triangulacion_mixta.csv integrates the available results from the three sources.
+The relationship is presented as convergence, complementarity, or divergence to guide the discussion; it is not interpreted as causality.
+The final writing should review the definitive quantitative values, negative cases, and the context of each interview.

@@ -1,0 +1,6 @@
+"dataset","variable","n","prueba","estadistico","p_value","decision"
+"funcionarios","V1_global",31,"Shapiro-Wilk",0.948547448974856,0.142329610199866,"No se rechaza normalidad"
+"ciudadanos","V2_eficiencia",55,"Kolmogorov-Smirnov",0.112874697900836,0.485121034993187,"No se rechaza normalidad"
+"ciudadanos","V3_digitalizacion",55,"Kolmogorov-Smirnov",0.104861825250798,0.580852386022425,"No se rechaza normalidad"
+"ciudadanos","V4_satisfaccion",54,"Kolmogorov-Smirnov",0.0980834165723449,0.676450906568759,"No se rechaza normalidad"
+"ciudadanos","NPS1",54,"Kolmogorov-Smirnov",0.155511591785756,0.146738282016505,"No se rechaza normalidad"

@@ -1,0 +1,2 @@
+"modelo","n","intercepto","pendiente_V3","p_pendiente","R2","R2_ajustado","F","gl_modelo","gl_error","interpretacion"
+"V2_eficiencia ~ V3_digitalizacion",55,1.30041373429731,0.672866175870103,0.00000000285633227657254,0.489110697495554,0.479471276693584,50.7406728623737,1,53,"Exploratoria; no implica que V3 cause V2"

@@ -1,0 +1,38 @@
+"dataset","variable","categoria","frecuencia","porcentaje_valido","faltantes"
+"funcionarios","area","Alcaldia",1,3.33,1
+"funcionarios","area","Alcaldia Planificación",1,3.33,1
+"funcionarios","area","Archivo Central",1,3.33,1
+"funcionarios","area","Bienes Inmuebles",1,3.33,1
+"funcionarios","area","Cobros",1,3.33,1
+"funcionarios","area","Contabilidad",1,3.33,1
+"funcionarios","area","Coordinación Administrativa",1,3.33,1
+"funcionarios","area","COORDINADOR CONTROL CONSTRUCTIVO",1,3.33,1
+"funcionarios","area","DEPARTAMENTO DE CATASTRO",1,3.33,1
+"funcionarios","area","DEPARTAMENTO DE CATASTRO.",2,6.67,1
+"funcionarios","area","Dirección Urbana",2,6.67,1
+"funcionarios","area","Gestión Ambiental",1,3.33,1
+"funcionarios","area","Jefe del PLantel Municipal",1,3.33,1
+"funcionarios","area","Municipalidad de Tibás",1,3.33,1
+"funcionarios","area","Municipalidad de Tibás, Cobros",1,3.33,1
+"funcionarios","area","Patentes",1,3.33,1
+"funcionarios","area","PATENTES",1,3.33,1
+"funcionarios","area","Plataforma de servicios",1,3.33,1
+"funcionarios","area","Plataforma de Servicios",2,6.67,1
+"funcionarios","area","PLATAFORMA SERVICIOS",1,3.33,1
+"funcionarios","area","Proveeduría",1,3.33,1
+"funcionarios","area","Proveeduría Municipal",1,3.33,1
+"funcionarios","area","Recursos Humanos",1,3.33,1
+"funcionarios","area","Secretaria del Concejo Municipal.",1,3.33,1
+"funcionarios","area","Servicios Generales",1,3.33,1
+"funcionarios","area","Tributario",1,3.33,1
+"funcionarios","area","Unidad Técnica Vial, Municipalidad de Tibás",1,3.33,1
+"funcionarios","area",,1,3.33,1
+"funcionarios","antiguedad","1–5 años",7,23.33,1
+"funcionarios","antiguedad","6–10 años",6,20,1
+"funcionarios","antiguedad","más de 10 años",16,53.33,1
+"funcionarios","antiguedad","Menos de 1 año",1,3.33,1
+"funcionarios","antiguedad",,1,3.33,1
+"funcionarios","relacion_tecnologia","Directa",19,63.33,1
+"funcionarios","relacion_tecnologia","Indirecta",10,33.33,1
+"funcionarios","relacion_tecnologia","Ninguna",1,3.33,1
+"funcionarios","relacion_tecnologia",,1,3.33,1
