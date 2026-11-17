@@ -1,5 +1,6 @@
 # DigitalMaturityProject
 
+The main purpose of this repository is to serve as a backup for the documents, data, and scripts used during the research on the digital maturity of the Municipality of Tibás, conducted in 2026. This repository is part of the ULACIT professional experience project, supporting both the research report and the publishable scientific paper.
 Reproducible project for cleaning, analyzing, and triangulating data from the
 study **“From Paper to Digital: Perceived Digital Maturity in Municipal
 Services.”**
