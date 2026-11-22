@@ -221,7 +221,7 @@ write_table(coherence, "coherencia_metodologica")
 
 fmt_p <- function(p) {
   if (is.na(p)) return("p no estimable")
-  if (p < .001) return("p < .001")
+  p <- max(p, 0.001)
   paste0("p = ", formatC(p, format = "f", digits = 3))
 }
 

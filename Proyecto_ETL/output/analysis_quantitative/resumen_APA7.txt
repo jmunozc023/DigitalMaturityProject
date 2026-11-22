@@ -1,7 +1,7 @@
 RESUMEN DE RESULTADOS EN FORMATO APA 7
 
 Hipótesis principal: relación entre V3 (digitalización percibida) y V2 (eficiencia administrativa percibida).
-Se realizó una correlación pearson, r = 0.70, p < .001, n = 55. Se rechaza H0. El tamaño del efecto fue Fuerte.
+Se realizó una correlación pearson, r = 0.70, p = 0.001, n = 55. Se rechaza H0. El tamaño del efecto fue Fuerte.
 
 Las comparaciones por grupos son exploratorias; solo se ejecutan cuando existen al menos dos observaciones por grupo.
 Las tablas incluyen estadístico, grados de libertad, valor p y tamaño del efecto.

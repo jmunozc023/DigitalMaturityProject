@@ -21,6 +21,12 @@ translate_labels <- function(x, map = NULL) {
   out
 }
 
+format_p3 <- function(p) {
+  if (is.na(p)) return("NA")
+  p <- max(p, 0.001)
+  formatC(p, format = "f", digits = 3)
+}
+
 md_item_labels <- c(
   setNames(sprintf("MD%02d — Strategy item %d", 1:4, 1:4), sprintf("MD%02d", 1:4)),
   setNames(sprintf("MD%02d — Participation item %d", 5:8, 1:4), sprintf("MD%02d", 5:8)),
@@ -126,7 +132,7 @@ if (sum(xy) >= 3) {
     legend("topleft", bty = "n",
            legend = paste0(hypothesis$metodo[1], ": r = ",
                            formatC(hypothesis$estimador[1], digits = 2, format = "f"),
-                           ", p = ", formatC(hypothesis$p_value[1], digits = 3, format = "f")),
+                        ", p = ", format_p3(hypothesis$p_value[1])),
            text.col = "#333333")
   }
   dev.off()

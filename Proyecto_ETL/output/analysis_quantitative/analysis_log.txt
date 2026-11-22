@@ -140,3 +140,13 @@
 2026-11-17 16:04:10 | Catálogos de tablas y figuras para la entrega generados.
 2026-11-17 16:04:10 | Análisis cuantitativo completado.
 2026-11-17 16:04:10 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.
+2026-11-21 17:22:26 | Gráficos cuantitativos generados en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-21 17:22:27 | Gráfico de confiabilidad generado en:  C:\Users\josep\OneDrive - ULACIT ED CR\Experiencia Profesional\DatosExperiencia/Proyecto_ETL/output/analysis_quantitative/figures
+2026-11-21 17:22:29 | Reproducible qualitative analysis generated with  7  interviews and  30  codes.
+2026-11-21 17:22:30 | Tablas de entrega, coherencia, limitaciones y validación metodológica generadas.
+2026-11-21 17:22:30 | Entregables metodológicos actualizados con la evidencia cualitativa.
+2026-11-21 17:22:38 | Histogramas, boxplots y medias con IC95% generados según la guía.
+2026-11-21 17:22:38 | Matriz de triangulación mixta generada.
+2026-11-21 17:22:39 | Catálogos de tablas y figuras para la entrega generados.
+2026-11-21 17:22:39 | Análisis cuantitativo completado.
+2026-11-21 17:22:39 | La integración cualitativa y mixta se actualiza desde los módulos reproducibles.

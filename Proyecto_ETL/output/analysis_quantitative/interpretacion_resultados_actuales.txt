@@ -8,7 +8,7 @@ Cronbach's alpha was estimated for the MD scales by KPA and overall, and for V2,
 
 3. Hypotheses and tests
 The significance level is α = .05. Test selection is based on normality and Levene, and the statistic, p-value, and effect size are reported.
-The main V3-V2 hypothesis was evaluated using pearson: r = 0.70, p < .001, n = 55. Se rechaza H0.
+The main V3-V2 hypothesis was evaluated using pearson: r = 0.70, p = 0.001, n = 55. Se rechaza H0.
 Group comparisons are considered exploratory because a specific hypothesis was not defined for each sociodemographic variable.
 
 4. Findings and patterns

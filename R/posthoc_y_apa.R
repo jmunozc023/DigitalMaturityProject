@@ -4,6 +4,12 @@
 # datos, puntajes y funciones de exportación del análisis principal.
 ###############################################################################
 
+format_p_apa <- function(p) {
+  if (is.na(p)) return("p no estimable")
+  p <- max(p, 0.001)
+  paste0("p = ", formatC(p, format = "f", digits = 3))
+}
+
 posthoc_one <- function(data, outcome, group, dataset) {
   keep <- complete.cases(data[[outcome]], data[[group]])
   y <- suppressWarnings(as.numeric(data[[outcome]][keep]))
@@ -67,12 +73,6 @@ if (length(posthoc_results)) {
   posthoc <- data.frame(nota = "No hubo ANOVA estimables con tres o más grupos")
 }
 write_table(posthoc, "posthoc_Tukey_o_GamesHowell")
-
-format_p_apa <- function(p) {
-  if (is.na(p)) return("p no estimable")
-  if (p < .001) return("p < .001")
-  paste0("p = ", formatC(p, format = "f", digits = 3))
-}
 
 apa_lines <- c(
   "RESUMEN DE RESULTADOS EN FORMATO APA 7",
